@@ -21,6 +21,7 @@
 		75004A332A14CDCB0076D865 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		75004A362A14CDCB0076D865 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		753700BB2A208D74009079F6 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		756DA6A82A20B4DB004C23CA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		75004A232A14CDCA0076D865 = {
 			isa = PBXGroup;
 			children = (
+				756DA6A82A20B4DB004C23CA /* README.md */,
 				75004A2E2A14CDCA0076D865 /* Word Scramble */,
 				75004A2D2A14CDCA0076D865 /* Products */,
 			);
