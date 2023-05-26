@@ -38,6 +38,7 @@
 		75004A232A14CDCA0076D865 = {
 			isa = PBXGroup;
 			children = (
+				756DA6A82A20B4DB004C23CA /* README.md */,
 				75004A2E2A14CDCA0076D865 /* Word Scramble */,
 				75004A2D2A14CDCA0076D865 /* Products */,
 			);
@@ -54,7 +55,6 @@
 		75004A2E2A14CDCA0076D865 /* Word Scramble */ = {
 			isa = PBXGroup;
 			children = (
-				756DA6A82A20B4DB004C23CA /* README.md */,
 				75004A2F2A14CDCA0076D865 /* Word_ScrambleApp.swift */,
 				75004A312A14CDCA0076D865 /* ContentView.swift */,
 				753700BB2A208D74009079F6 /* start.txt */,
